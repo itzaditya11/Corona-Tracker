@@ -1,0 +1,14 @@
+.Footer {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-top: 10%;
+  padding: 1rem;
+  left: 0;
+}
+.link {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
